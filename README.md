@@ -4,7 +4,8 @@
 > [![Watch the video](youthumb_L72fhGm1tfE_high.png)](https://www.youtube.com/watch?v=L72fhGm1tfE&t=287s)
 
 
-> Key topics to learn 
+
+## Study subjects
 
 - Setup & Install / Simple Server
 - Simple API
