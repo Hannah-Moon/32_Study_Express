@@ -1,0 +1,17 @@
+{
+  "name": "apr_19_2024_expressjs_crashcourse",
+  "version": "1.0.0",
+  "description": "Express Crush Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "Hannah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
